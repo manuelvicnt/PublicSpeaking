@@ -12,6 +12,7 @@ For all of this and more, check out my [Twitter account](https://twitter.com/man
 - Coroutines! Gotta catch 'em all.<br/>_KotlinConf 2019 - December 5th, 2019_
 
 ## Talks
+- Structured Concurrency - [Slides](https://speakerdeck.com/manuelvicnt/structured-concurrency-droidcon-lisbon-2019)<br/>_Madrid Android Developer Group - September 17th, 2019_
 - What's Q in Android UI - [Slides](https://speakerdeck.com/manuelvicnt/whats-new-in-android-q-ui-droidcon-lisbon-2019)<br/>_Droidcon Lisbon - September 10th, 2019_
 - Structured Concurrency: Asynchronous shift in Kotlin - [Slides](https://speakerdeck.com/manuelvicnt/structured-concurrency-droidcon-lisbon-2019)<br/>_Droidcon Lisbon - September 10th, 2019_
 - Structured Concurrency: Asynchronous shift in Kotlin - [Slides](https://speakerdeck.com/manuelvicnt/structured-concurrency-droidcon-lisbon-2019)<br/>_GDG London - August 28th, 2019_
