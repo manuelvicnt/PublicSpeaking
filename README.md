@@ -5,13 +5,15 @@ For blog posts, check out my [Medium account](https://medium.com/@manuelvicnt)
 For all of this and more, check out my [Twitter account](https://twitter.com/manuelvicnt)
 
 ## Upcoming
-- Structured Concurrency: Asynchronous shift in Kotlin.<br/>_Codemotion Madrid - September 24th, 2019_
-- State of Kotlin in Android.<br/>_Kotlin Everywhere Lisbon - September 26th, 2019_
-- State of Kotlin in Android.<br/>_Kotlin Everywhere Coimbra - October 1st, 2019_
 - Jetpack: Modern Android Development.<br/>_Commit Conf (Madrid) - November 23rd, 2019_
 - Coroutines! Gotta catch 'em all.<br/>_KotlinConf 2019 - December 5th, 2019_
 
 ## Talks
+- An opinionated guide to Dependency Injection on Android - [Video](https://www.youtube.com/watch?v=o-ins1nvbDg)<br/>_Android Developer Summit 2019 - October 24th, 2019_
+- Testing Coroutines on Android - [Video](https://www.youtube.com/watch?v=KMb0Fs8rCRs)<br/>_Android Developer Summit 2019 - October 24th, 2019_
+- State of Kotlin in Android.<br/>_Kotlin Everywhere Coimbra - October 1st, 2019_
+- State of Kotlin in Android.<br/>_Kotlin Everywhere Lisbon - September 26th, 2019_
+- Structured Concurrency: Asynchronous shift in Kotlin.<br/>_Codemotion Madrid - September 24th, 2019_
 - Structured Concurrency - [Slides](https://speakerdeck.com/manuelvicnt/structured-concurrency-droidcon-lisbon-2019)<br/>_Madrid Android Developer Group - September 17th, 2019_
 - What's Q in Android UI - [Slides](https://speakerdeck.com/manuelvicnt/whats-new-in-android-q-ui-droidcon-lisbon-2019)<br/>_Droidcon Lisbon - September 10th, 2019_
 - Structured Concurrency: Asynchronous shift in Kotlin - [Slides](https://speakerdeck.com/manuelvicnt/structured-concurrency-droidcon-lisbon-2019)<br/>_Droidcon Lisbon - September 10th, 2019_
