@@ -5,10 +5,11 @@ For blog posts, check out my [Medium account](https://medium.com/@manuelvicnt)
 For all of this and more, check out my [Twitter account](https://twitter.com/manuelvicnt)
 
 ## Upcoming
-- Jetpack: Modern Android Development.<br/>_Commit Conf (Madrid) - November 23rd, 2019_
-- Coroutines! Gotta catch 'em all.<br/>_KotlinConf 2019 - December 5th, 2019_
 
-## Talks
+
+## 2019 Talks
+- Coroutines! Gotta catch 'em all - [Video](https://www.youtube.com/watch?v=w0kfnydnFWI)<br/>_KotlinConf 2019 - December 5th, 2019_
+- Jetpack: Modern Android Development - [Video](https://www.youtube.com/watch?v=hoTe4avcbeg)<br/>_Commit Conf (Madrid) - November 23rd, 2019_
 - An opinionated guide to Dependency Injection on Android - [Video](https://www.youtube.com/watch?v=o-ins1nvbDg)<br/>_Android Developer Summit 2019 - October 24th, 2019_
 - Testing Coroutines on Android - [Video](https://www.youtube.com/watch?v=KMb0Fs8rCRs)<br/>_Android Developer Summit 2019 - October 24th, 2019_
 - State of Kotlin in Android.<br/>_Kotlin Everywhere Coimbra - October 1st, 2019_
