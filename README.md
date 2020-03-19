@@ -11,10 +11,16 @@ For all of this and more, check out my [Twitter account](https://twitter.com/man
 ### Podcasts
 [Coroutines with Manuel Vivo & Sean McQuillan](https://fragmentedpodcast.com/episodes/187/) - FragmentedPodcast
 
+### Youtube videos
+[Suspend functions - Kotlin Vocabulary](https://www.youtube.com/watch?v=IQf-vtIC-Uc)
+
 ## 2019 
 
 ### Podcasts
 [Coroutines & Rx (in Spanish)](https://androiddevpodcast.com/podcast/coroutines-rx/) - AndroidDevPodcast 
+
+### Youtube videos
+[New ShareSheet in Android 10](https://www.youtube.com/watch?v=qsKVL4FSHVI)
 
 ### Talks
 - <b>Coroutines! Gotta catch 'em all</b> - [Video](https://www.youtube.com/watch?v=w0kfnydnFWI)<br/>_KotlinConf 2019 - December 5th, 2019_
