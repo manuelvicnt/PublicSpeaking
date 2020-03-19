@@ -6,8 +6,17 @@ For all of this and more, check out my [Twitter account](https://twitter.com/man
 
 ## Upcoming
 
+## 2020
 
-## 2019 Talks
+### Podcasts
+[Coroutines with Manuel Vivo & Sean McQuillan](https://fragmentedpodcast.com/episodes/187/) - FragmentedPodcast
+
+## 2019 
+
+### Podcasts
+[Coroutines & Rx (in Spanish)](https://androiddevpodcast.com/podcast/coroutines-rx/) - AndroidDevPodcast 
+
+### Talks
 - <b>Coroutines! Gotta catch 'em all</b> - [Video](https://www.youtube.com/watch?v=w0kfnydnFWI)<br/>_KotlinConf 2019 - December 5th, 2019_
 - <b>Jetpack: Modern Android Development</b> - [Video](https://www.youtube.com/watch?v=hoTe4avcbeg)<br/>_Commit Conf (Madrid) - November 23rd, 2019_
 - <b>An opinionated guide to Dependency Injection on Android</b> - [Video](https://www.youtube.com/watch?v=o-ins1nvbDg)<br/>_Android Developer Summit 2019 - October 24th, 2019_
