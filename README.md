@@ -8,6 +8,9 @@ For all of this and more, check out my [Twitter account](https://twitter.com/man
 
 ## 2020
 
+### Interviews 
+[Antonio Leiva's interview (in Spanish)](https://www.youtube.com/watch?v=W9h_R8rFNKc) - Talking about my career, Compose, DI and Kotlin & coroutines.
+
 ### Podcasts
 [Coroutines with Manuel Vivo & Sean McQuillan](https://fragmentedpodcast.com/episodes/187/) - FragmentedPodcast
 
