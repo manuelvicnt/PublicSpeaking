@@ -30,7 +30,7 @@ For all of this and more, check out my [Twitter account](https://twitter.com/man
 - <b>Jetpack: Modern Android Development</b> - [Video](https://www.youtube.com/watch?v=hoTe4avcbeg)<br/>_Commit Conf (Madrid) - November 23rd, 2019_
 - <b>An opinionated guide to Dependency Injection on Android</b> - [Video](https://www.youtube.com/watch?v=o-ins1nvbDg)<br/>_Android Developer Summit 2019 - October 24th, 2019_
 - <b>Testing Coroutines on Android</b> - [Video](https://www.youtube.com/watch?v=KMb0Fs8rCRs)<br/>_Android Developer Summit 2019 - October 24th, 2019_
-- <b>State of Kotlin in Android</b>.<br/>_Kotlin Everywhere Coimbra - October 1st, 2019_
+- <b>State of Kotlin in Android</b> - [Video](https://www.youtube.com/watch?v=sMyq9_woQlY)<br/>_Kotlin Everywhere Coimbra - October 1st, 2019_
 - <b>State of Kotlin in Android</b>.<br/>_Kotlin Everywhere Lisbon - September 26th, 2019_
 - <b>Structured Concurrency: Asynchronous shift in Kotlin</b> - [Video](https://www.youtube.com/watch?v=vLUWsAyue08) - [Interview](https://www.youtube.com/watch?v=pawjjJJsi6c)<br/>_Codemotion Madrid - September 24th, 2019_
 - <b>Structured Concurrency</b> - [Slides](https://speakerdeck.com/manuelvicnt/structured-concurrency-droidcon-lisbon-2019)<br/>_Madrid Android Developer Group - September 17th, 2019_
