@@ -14,8 +14,13 @@ For all of this and more, check out my [Twitter account](https://twitter.com/man
 ### Podcasts
 [Coroutines with Manuel Vivo & Sean McQuillan](https://fragmentedpodcast.com/episodes/187/) - FragmentedPodcast
 
+[Kotlin Flow (in Spanish)](https://androiddevpodcast.com/podcast/flow/) - AndroidDevPodcast 
+
+
 ### Youtube videos
 [Suspend functions - Kotlin Vocabulary](https://www.youtube.com/watch?v=IQf-vtIC-Uc)
+
+[Kotlin Coroutines 101 - Android Conference Talks](https://www.youtube.com/watch?v=ZTDXo0-SKuU)
 
 ## 2019 
 
