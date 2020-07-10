@@ -16,7 +16,7 @@ For all of this and more, check out my [Twitter account](https://twitter.com/man
 
 [Kotlin Flow (in Spanish)](https://androiddevpodcast.com/podcast/flow/) - AndroidDevPodcast 
 
-[Hilt (in Spanish)](youtu.be/PZMi3yE_tXw) - CodalotPodcast
+[Hilt (in Spanish)](https://www.youtube.com/watch?v=PZMi3yE_tXw) - CodalotPodcast
 
 ### Youtube videos
 [Suspend functions - Kotlin Vocabulary](https://www.youtube.com/watch?v=IQf-vtIC-Uc)
