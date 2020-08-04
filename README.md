@@ -4,24 +4,26 @@ For blog posts, check out my [Medium account](https://medium.com/@manuelvicnt)
 
 For all of this and more, check out my [Twitter account](https://twitter.com/manuelvicnt)
 
-## Upcoming
+See all my videos in this [YouTube playlist](https://www.youtube.com/playlist?list=PLFLx5voZ6zgt1eoCGO4rdkTXmr6XA4D_q)
 
 ## 2020
 
-### Interviews 
-[Antonio Leiva's interview (in Spanish)](https://www.youtube.com/watch?v=W9h_R8rFNKc) - Talking about my career, Compose, DI and Kotlin & coroutines.
-
-### Podcasts
-[Coroutines with Manuel Vivo & Sean McQuillan](https://fragmentedpodcast.com/episodes/187/) - FragmentedPodcast
-
-[Kotlin Flow (in Spanish)](https://androiddevpodcast.com/podcast/flow/) - AndroidDevPodcast 
-
-[Hilt (in Spanish)](https://www.youtube.com/watch?v=PZMi3yE_tXw) - CodalotPodcast
+### Talks
+- <b>Hilt in Spanish</b> - [Video](https://youtu.be/VISmyqGI3CE)<br/>_GDG Buenos Aires - July 31st, 2020_
+- <b>Hilt - Dependency injection for the mere mortals</b><br/>_360|AnDev 2020 - July 24th, 2020_
 
 ### Youtube videos
-[Suspend functions - Kotlin Vocabulary](https://www.youtube.com/watch?v=IQf-vtIC-Uc)
+- [Android Coroutines: 2020 update](https://youtu.be/6manrgTPzyA)
+- [Kotlin Coroutines 101 - Android Conference Talks](https://www.youtube.com/watch?v=ZTDXo0-SKuU)
+- [Suspend functions - Kotlin Vocabulary](https://www.youtube.com/watch?v=IQf-vtIC-Uc)
 
-[Kotlin Coroutines 101 - Android Conference Talks](https://www.youtube.com/watch?v=ZTDXo0-SKuU)
+### Podcasts
+- [Coroutines with Manuel Vivo & Sean McQuillan](https://fragmentedpodcast.com/episodes/187/) - FragmentedPodcast
+- [Kotlin Flow (in Spanish)](https://androiddevpodcast.com/podcast/flow/) - AndroidDevPodcast 
+- [Hilt (in Spanish)](https://www.youtube.com/watch?v=PZMi3yE_tXw) - CodalotPodcast
+
+### Interviews 
+- [Antonio Leiva's interview (in Spanish)](https://www.youtube.com/watch?v=W9h_R8rFNKc) - Talking about my career, Compose, DI and Kotlin & coroutines.
 
 ## 2019 
 
