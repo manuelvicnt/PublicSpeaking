@@ -9,6 +9,7 @@ See all my videos in this [YouTube playlist](https://www.youtube.com/playlist?li
 ## 2020
 
 ### Talks
+- <b>Hilt - Dependency injection for the mere mortals</b> - [Video](https://www.youtube.com/watch?v=8hZLlXNZo_o)<br/>_Android Academy - August 4th, 2020_
 - <b>Hilt in Spanish</b> - [Video](https://youtu.be/VISmyqGI3CE)<br/>_GDG Buenos Aires - July 31st, 2020_
 - <b>Hilt - Dependency injection for the mere mortals</b><br/>_360|AnDev 2020 - July 24th, 2020_
 
