@@ -9,6 +9,7 @@ See all my videos in this [YouTube playlist](https://www.youtube.com/playlist?li
 ## 2020
 
 ### Talks
+- <b>Hilt - Dependency injection for the mere mortals</b> - [Video](https://youtu.be/4di2TTqeCrE)<br/>_Android Broadcast - September 3rd, 2020_
 - <b>Hilt - Inyección de dependencias para mortales (en Español)</b> - [Video](https://youtu.be/trO27B0xLw0)<br/>_Google Developers LATAM - August 22nd, 2020_
 - <b>Hilt - Dependency injection for the mere mortals</b> - [Video](https://www.youtube.com/watch?v=ZMjQ-UpAMYY)<br/>_Dutch Android User Group - August 20th, 2020_
 - <b>Hilt - Dependency injection for the mere mortals</b> - [Video](https://www.youtube.com/watch?v=8hZLlXNZo_o)<br/>_Android Academy - August 4th, 2020_
