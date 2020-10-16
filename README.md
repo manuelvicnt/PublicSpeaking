@@ -9,12 +9,23 @@ See all my videos in this [YouTube playlist](https://www.youtube.com/playlist?li
 ## 2020
 
 ### Talks
+- <b>Compose for existing apps</b><br/>_GDG DevFest Marmara, Turkey - October 18th, 2020_
+- <b>Hilt - Dependency injection for the mere mortals</b><br/>_GDG DevFest Ukraine - October 18th, 2020_
+- <b>Compose for existing apps (in Spanish)</b><br/>_GDG DevFest Colombia - October 17th, 2020_
+- <b>Compose for existing apps</b><br/>_GDG DevFest Romania - October 17th, 2020_
+- <b>Coroutines: going async on Android</b><br/>_DevFest Casablanca x Settat - October 16th, 2020_
+- <b>Coroutines: going async on Android</b><br/>_Android Summit - October 9th, 2020_
+- <b>Compose for existing apps</b><br/>_Droidcon EMEA - October 9th, 2020_
 - <b>Hilt - Dependency injection for the mere mortals</b> - [Video](https://youtu.be/4di2TTqeCrE)<br/>_Android Broadcast - September 3rd, 2020_
 - <b>Hilt - Inyección de dependencias para mortales (en Español)</b> - [Video](https://youtu.be/trO27B0xLw0)<br/>_Google Developers LATAM - August 22nd, 2020_
 - <b>Hilt - Dependency injection for the mere mortals</b> - [Video](https://www.youtube.com/watch?v=ZMjQ-UpAMYY)<br/>_Dutch Android User Group - August 20th, 2020_
 - <b>Hilt - Dependency injection for the mere mortals</b> - [Video](https://www.youtube.com/watch?v=8hZLlXNZo_o)<br/>_Android Academy - August 4th, 2020_
 - <b>Hilt in Spanish</b> - [Video](https://youtu.be/VISmyqGI3CE)<br/>_GDG Buenos Aires - July 31st, 2020_
 - <b>Hilt - Dependency injection for the mere mortals</b><br/>_360|AnDev 2020 - July 24th, 2020_
+
+### Panels
+- <b>Panel about Modern Android Development</b><br/>_Droidcon EMEA - October 9th, 2020_
+- <b>Panel about Jetpack Compose</b><br/>_Droidcon EMEA - October 8th, 2020_
 
 ### Youtube videos
 - [Android Coroutines: 2020 update](https://youtu.be/6manrgTPzyA)
