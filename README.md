@@ -13,7 +13,7 @@ See all my videos in this [YouTube playlist](https://www.youtube.com/playlist?li
 - <b>Hilt - Dependency injection for the mere mortals</b><br/>_GDG DevFest Ukraine - October 18th, 2020_
 - <b>Compose for existing apps (in Spanish)</b><br/>_GDG DevFest Colombia - October 17th, 2020_
 - <b>Compose for existing apps</b><br/>_GDG DevFest Romania - October 17th, 2020_
-- <b>Coroutines: going async on Android</b><br/>_DevFest Casablanca x Settat - October 16th, 2020_
+- <b>Coroutines: going async on Android</b> - [Video](https://www.youtube.com/watch?v=ZmoSR5MLXhY&t=5300s)<br/>_DevFest Casablanca x Settat - October 16th, 2020_
 - <b>Coroutines: going async on Android</b><br/>_Android Summit - October 9th, 2020_
 - <b>Compose for existing apps</b><br/>_Droidcon EMEA - October 9th, 2020_
 - <b>Hilt - Dependency injection for the mere mortals</b> - [Video](https://youtu.be/4di2TTqeCrE)<br/>_Android Broadcast - September 3rd, 2020_
