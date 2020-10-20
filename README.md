@@ -9,7 +9,7 @@ See all my videos in this [YouTube playlist](https://www.youtube.com/playlist?li
 ## 2020
 
 ### Talks
-- <b>Compose for existing apps</b><br/>_GDG DevFest Marmara, Turkey - October 18th, 2020_
+- <b>Compose for existing apps</b> - [Video](https://youtu.be/B-PCVjRwato?t=11242)<br/>_GDG DevFest Marmara, Turkey - October 18th, 2020_
 - <b>Hilt - Dependency injection for the mere mortals</b><br/>_GDG DevFest Ukraine - October 18th, 2020_
 - <b>Compose for existing apps (in Spanish)</b> - [Video](https://youtu.be/aFLF7v-6b1M?t=1540)<br/>_GDG DevFest Colombia - October 17th, 2020_
 - <b>Compose for existing apps</b><br/>_GDG DevFest Romania - October 17th, 2020_
