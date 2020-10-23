@@ -24,8 +24,8 @@ See all my videos in this [YouTube playlist](https://www.youtube.com/playlist?li
 - <b>Hilt - Dependency injection for the mere mortals</b><br/>_360|AnDev 2020 - July 24th, 2020_
 
 ### Panels
-- <b>Panel about Modern Android Development</b><br/>_Droidcon EMEA - October 9th, 2020_
-- <b>Panel about Jetpack Compose</b><br/>_Droidcon EMEA - October 8th, 2020_
+- <b>Panel about Modern Android Development</b> - [Video](https://www.droidcon.com/media-detail?video=470615119)<br/>_Droidcon EMEA - October 9th, 2020_
+- <b>Panel about Jetpack Compose</b> - [Video](https://www.droidcon.com/media-detail?video=470598094)<br/>_Droidcon EMEA - October 8th, 2020_
 
 ### Youtube videos
 - [Android Coroutines: 2020 update](https://youtu.be/6manrgTPzyA)
