@@ -36,6 +36,7 @@ See all my videos in this [YouTube playlist](https://www.youtube.com/playlist?li
 - [Coroutines with Manuel Vivo & Sean McQuillan](https://fragmentedpodcast.com/episodes/187/) - FragmentedPodcast
 - [Kotlin Flow (in Spanish)](https://androiddevpodcast.com/podcast/flow/) - AndroidDevPodcast 
 - [Hilt (in Spanish)](https://www.youtube.com/watch?v=PZMi3yE_tXw) - CodalotPodcast
+- [Hilt (in Spanish)](https://androiddevpodcast.com/podcast/hilt/) - AndroidDevPodcast
 
 ### Interviews 
 - [Antonio Leiva's interview (in Spanish)](https://www.youtube.com/watch?v=W9h_R8rFNKc) - Talking about my career, Compose, DI and Kotlin & coroutines.
